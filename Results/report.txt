@@ -1,0 +1,5 @@
+1. The maximum and mean blood pressure levels in the population are higher than those in the sample.
+
+2. In the provided dataset, the population's BMI 98th percentile seems to be higher than the sample's 98th percentile.
+
+3. In the given dataset, there doesn't seem to be much of a difference between the population and bootstrap statistics for BloodPressure.
